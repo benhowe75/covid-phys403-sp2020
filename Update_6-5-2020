@@ -1,0 +1,2 @@
+I re structured the code making it simpler to retrieve the data for a single location.
+I'll work on a version that will allow users to specify several locations for comparison.
